@@ -1,3 +1,7 @@
-streamlit==1.8.0
-scikit-learn==1.0.2
-click==8.0.4
+numpy
+flask
+joblib
+pandas
+numpy
+gunicorn
+sklearn
